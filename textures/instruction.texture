@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "instruction",
+  "identifier": "texture:15133-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f1501b597d202b422aa4fbdde41dc0d4",
+  "assetLocator": "textures/instruction.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:913-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
+    "textureExportConfig:915-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
+    "textureExportConfig:917-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 730,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f1501b597d202b422aa4fbdde41dc0d4",
+      "colorCount": 49793,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.36507220991505,
+      "pixelsHigh": 1024,
+      "pixelsWide": 730
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "SkinSmoothingTexture",
+  "identifier": "texture:11093-71fb8b71-2165-4c8e-9b24-c440c9174296",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ffec9e2cbaea4890e9ce435a81e8b146",
+  "assetLocator": "textures/SkinSmoothingTexture.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:11095-71fb8b71-2165-4c8e-9b24-c440c9174296",
+    "textureExportConfig:11097-71fb8b71-2165-4c8e-9b24-c440c9174296",
+    "textureExportConfig:975-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 128,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 128,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ffec9e2cbaea4890e9ce435a81e8b146",
+      "colorCount": 256,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.067735943672621,
+      "pixelsHigh": 128,
+      "pixelsWide": 128
+    }
+  ]
+}

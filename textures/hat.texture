@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "hat",
+  "identifier": "texture:27087-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "536a9480e3b2e8a48be317ae10b9d6b3",
+  "assetLocator": "textures/hat.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:15747-71fb8b71-2165-4c8e-9b24-c440c9174296",
+    "textureExportConfig:929-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
+    "textureExportConfig:949-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 363,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "536a9480e3b2e8a48be317ae10b9d6b3",
+      "colorCount": 34360,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.322247529021224,
+      "pixelsHigh": 363,
+      "pixelsWide": 1024
+    }
+  ]
+}

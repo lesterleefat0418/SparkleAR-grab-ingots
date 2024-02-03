@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "game props _ +88",
+  "identifier": "texture:27095-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4511d4ab5259c1fcffef6c6975fe8a7c",
+  "assetLocator": "textures/game props _ +88.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:935-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
+    "textureExportConfig:955-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
+    "textureExportConfig:973-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 242,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 243,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4511d4ab5259c1fcffef6c6975fe8a7c",
+      "colorCount": 2873,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.9010041392367025,
+      "pixelsHigh": 242,
+      "pixelsWide": 243
+    }
+  ]
+}
