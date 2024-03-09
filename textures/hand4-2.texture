@@ -1,41 +1,41 @@
 {
   "modelName": "texture",
-  "name": "game props _ +88",
-  "identifier": "texture:27095-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "name": "hand4",
+  "identifier": "texture:205349-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "4511d4ab5259c1fcffef6c6975fe8a7c",
-  "assetLocator": "textures/game props _ +88.png",
+  "assetDataHash": "3eba1e103386017c6d3e16fe0b9a6448",
+  "assetLocator": "textures/hand4.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
   "exportConfigurations": [
-    "textureExportConfig:935-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-    "textureExportConfig:955-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-    "textureExportConfig:973-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+    "textureExportConfig:1099819-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:1116010-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:210567-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
   ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
-  "height": 242,
+  "height": 593,
   "importIssues": {},
   "isExternalAsset": true,
   "smartTextureTargetSizeLimit": "largest",
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 243,
+  "width": 593,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "4511d4ab5259c1fcffef6c6975fe8a7c",
-      "colorCount": 2873,
+      "assetDataHash": "3eba1e103386017c6d3e16fe0b9a6448",
+      "colorCount": 13914,
       "detectedAlphaChannel": "eight_bit_full_range",
       "detectedOriginalFormat": "png",
-      "entropyOfDistribution": 6.9010041392367025,
-      "pixelsHigh": 242,
-      "pixelsWide": 243
+      "entropyOfDistribution": 2.9213925594618066,
+      "pixelsHigh": 593,
+      "pixelsWide": 593
     }
   ]
 }

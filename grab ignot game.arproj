@@ -3,7 +3,7 @@
   "name": "Effect",
   "identifier": "document:14814-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
   "id": "14812b0ecf6a224fa4fa5bb969e34a31e8d5f",
-  "revision": "4686770b3003c6fb13743f78b5f514f688c795e",
+  "revision": "13633485152eac224af45c9b00fa5e81e2cecf3",
   "version": {
     "dev": 0,
     "patch": 0,
@@ -56,85 +56,17 @@
       "identifier": "textures:14820-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
       "children": [
         {
-          "sectionFileLocation": "textures/instruction.texture"
-        },
-        {
           "modelName": "sequenceTexture",
           "name": "animationSequence0",
           "identifier": "sequenceTexture:15155-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
           "frameRate": 9,
-          "sourceTextureIdentifier": "textureGroup:15189-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f"
-        },
-        {
-          "modelName": "textureGroup",
-          "name": "Hand[1-8]",
-          "identifier": "textureGroup:15189-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-          "sequenceFramesTextureIdentifiers": [
-            "texture:15159-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15163-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15167-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15171-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15175-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15179-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15183-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
-            "texture:15187-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f"
-          ],
-          "children": [
-            {
-              "sectionFileLocation": "textures/Hand0.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand1.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand2.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand3.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand4.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand5.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand6.texture"
-            },
-            {
-              "sectionFileLocation": "textures/Hand7.texture"
-            }
-          ]
-        },
-        {
-          "sectionFileLocation": "textures/logo_arv_01.texture"
-        },
-        {
-          "sectionFileLocation": "textures/placeholder_01.texture"
-        },
-        {
-          "sectionFileLocation": "textures/placeholder_02.texture"
+          "sourceTextureIdentifier": "textureGroup:207967-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
         },
         {
           "sectionFileLocation": "textures/timesup.texture"
         },
         {
           "sectionFileLocation": "textures/hat.texture"
-        },
-        {
-          "sectionFileLocation": "textures/game props_ +100.texture"
-        },
-        {
-          "sectionFileLocation": "textures/game props _ +88.texture"
-        },
-        {
-          "sectionFileLocation": "textures/props_04.texture"
-        },
-        {
-          "sectionFileLocation": "textures/props_05.texture"
-        },
-        {
-          "sectionFileLocation": "textures/bag.texture"
         },
         {
           "sectionFileLocation": "textures/SkinSmoothingTexture.texture"
@@ -147,6 +79,64 @@
         },
         {
           "sectionFileLocation": "textures/score-06.texture"
+        },
+        {
+          "sectionFileLocation": "textures/game props_small.texture"
+        },
+        {
+          "sectionFileLocation": "textures/game props_,more.texture"
+        },
+        {
+          "modelName": "textureGroup",
+          "name": "hand[1-7]",
+          "identifier": "textureGroup:207967-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "sequenceFramesTextureIdentifiers": [
+            "texture:205345-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205353-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205357-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205349-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205361-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205365-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+            "texture:205369-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
+          ],
+          "children": [
+            {
+              "sectionFileLocation": "textures/hand1-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand2-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand3-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand4-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand5-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand6-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/hand7-2.texture"
+            }
+          ]
+        },
+        {
+          "sectionFileLocation": "textures/FrontPage.texture"
+        },
+        {
+          "sectionFileLocation": "textures/bag-2.texture"
+        },
+        {
+          "sectionFileLocation": "textures/Top.texture"
+        },
+        {
+          "sectionFileLocation": "textures/Bottom.texture"
+        },
+        {
+          "sectionFileLocation": "textures/Board.texture"
         }
       ]
     },
@@ -296,43 +286,7 @@
         {
           "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:15747-71fb8b71-2165-4c8e-9b24-c440c9174296",
-          "active": false,
           "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:913-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:915-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:917-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:919-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:921-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:923-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
         },
         {
           "modelName": "textureExportConfig",
@@ -342,59 +296,9 @@
         },
         {
           "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:927-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:929-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "active": false,
           "method": "fastest",
           "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:931-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:933-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "compressionFormat": 30,
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:935-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:937-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 1
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:939-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:941-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:943-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
         },
         {
           "modelName": "textureExportConfig",
@@ -404,56 +308,9 @@
         },
         {
           "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:947-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:949-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "active": false,
           "method": "fastest",
           "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:951-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:953-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "active": false,
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:955-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:957-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest",
-          "targetFormat": 2
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:959-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:961-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:963-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
         },
         {
           "modelName": "textureExportConfig",
@@ -462,33 +319,7 @@
         },
         {
           "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:967-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:969-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:971-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "active": false,
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:973-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:975-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-          "method": "fastest"
-        },
-        {
-          "modelName": "textureExportConfig",
-          "identifier": "textureExportConfig:977-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
           "method": "fastest"
         },
         {
@@ -523,6 +354,244 @@
         {
           "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:141319-b3003c6f-b137-43f7-8b5f-514f688c795e",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210567-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210569-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210571-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210573-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210575-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210577-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:210579-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:218405-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:221015-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:223627-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:437584-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:440184-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:447974-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:450572-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:453172-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:460962-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:463560-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:466160-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:612154-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:614752-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:617352-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1084337-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1086911-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1089487-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1092065-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1094645-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1097227-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099811-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099813-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099815-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099817-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099819-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099821-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1099823-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116002-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116004-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116006-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116008-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116010-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116012-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1116014-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1118626-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
           "method": "fastest"
         }
       ]
@@ -951,6 +1020,10 @@
           "isExternalAsset": true
         }
       ]
+    },
+    {
+      "modelName": "input_mappings_model",
+      "identifier": "input_mappings_model:5379-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
     }
   ]
 }

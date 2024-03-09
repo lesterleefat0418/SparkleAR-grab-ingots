@@ -1,41 +1,41 @@
 {
   "modelName": "texture",
-  "name": "placeholder_01",
-  "identifier": "texture:27075-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "name": "hand7",
+  "identifier": "texture:205369-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "7ecbf8e2b058c68f574c07a05daa2406",
-  "assetLocator": "textures/placeholder_01.png",
+  "assetDataHash": "3eba1e103386017c6d3e16fe0b9a6448",
+  "assetLocator": "textures/hand7.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
   "exportConfigurations": [
-    "textureExportConfig:927-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-    "textureExportConfig:947-7c321f9a-5266-4b6c-9cdb-90d5bcda458f",
-    "textureExportConfig:967-7c321f9a-5266-4b6c-9cdb-90d5bcda458f"
+    "textureExportConfig:1099817-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:1116008-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:210579-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
   ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
-  "height": 1024,
+  "height": 593,
   "importIssues": {},
   "isExternalAsset": true,
   "smartTextureTargetSizeLimit": "largest",
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 730,
+  "width": 593,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "7ecbf8e2b058c68f574c07a05daa2406",
-      "colorCount": 51781,
+      "assetDataHash": "3eba1e103386017c6d3e16fe0b9a6448",
+      "colorCount": 13914,
       "detectedAlphaChannel": "eight_bit_full_range",
       "detectedOriginalFormat": "png",
-      "entropyOfDistribution": 8.310831272689082,
-      "pixelsHigh": 1024,
-      "pixelsWide": 730
+      "entropyOfDistribution": 2.9213925594618066,
+      "pixelsHigh": 593,
+      "pixelsWide": 593
     }
   ]
 }

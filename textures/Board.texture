@@ -1,36 +1,41 @@
 {
   "modelName": "texture",
-  "name": "Hand7",
-  "identifier": "texture:15187-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "name": "Board",
+  "identifier": "texture:609558-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "1ca2e40bb43a9b90dd8c7c4dbb8523fe",
-  "assetLocator": "textures/Hand7.png",
+  "assetDataHash": "a3d758ed7922fa7e9ba7e36ddece4d29",
+  "assetLocator": "textures/Board.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:612154-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:614752-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:617352-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
+  ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
-  "height": 1024,
+  "height": 500,
   "importIssues": {},
   "isExternalAsset": true,
   "smartTextureTargetSizeLimit": "largest",
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 1024,
+  "width": 654,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "1ca2e40bb43a9b90dd8c7c4dbb8523fe",
-      "colorCount": 21927,
+      "assetDataHash": "a3d758ed7922fa7e9ba7e36ddece4d29",
+      "colorCount": 2067,
       "detectedAlphaChannel": "eight_bit_full_range",
       "detectedOriginalFormat": "png",
-      "entropyOfDistribution": 3.386358315999108,
-      "pixelsHigh": 1024,
-      "pixelsWide": 1024
+      "entropyOfDistribution": 5.306040873101052,
+      "pixelsHigh": 500,
+      "pixelsWide": 654
     }
   ]
 }

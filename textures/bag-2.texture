@@ -1,15 +1,20 @@
 {
   "modelName": "texture",
-  "name": "Hand2",
-  "identifier": "texture:15167-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
+  "name": "bag",
+  "identifier": "texture:302162-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "0417ebe2b9727c0c36f12a8d9f97c9d8",
-  "assetLocator": "textures/Hand2.png",
+  "assetDataHash": "c674b0ae052b36d3e500492a8d6af86c",
+  "assetLocator": "textures/bag.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:1118626-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:437584-5152eac2-24af-45c9-b00f-a5e81e2cecf3",
+    "textureExportConfig:440184-5152eac2-24af-45c9-b00f-a5e81e2cecf3"
+  ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
   "height": 1024,
@@ -19,18 +24,18 @@
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 1024,
+  "width": 1001,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "0417ebe2b9727c0c36f12a8d9f97c9d8",
-      "colorCount": 19550,
+      "assetDataHash": "c674b0ae052b36d3e500492a8d6af86c",
+      "colorCount": 15238,
       "detectedAlphaChannel": "eight_bit_full_range",
       "detectedOriginalFormat": "png",
-      "entropyOfDistribution": 3.6963296517710984,
+      "entropyOfDistribution": 4.87351712493885,
       "pixelsHigh": 1024,
-      "pixelsWide": 1024
+      "pixelsWide": 1001
     }
   ]
 }

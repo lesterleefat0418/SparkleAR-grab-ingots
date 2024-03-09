@@ -3,7 +3,7 @@
   "name": "timesup",
   "identifier": "texture:27083-b0ecf6a2-24fa-4fa5-bb96-9e34a31e8d5f",
   "alphaPremultiplicationMode": "should_premultiply",
-  "assetDataHash": "7b939e9f572d20b4d53b25645d0a5781",
+  "assetDataHash": "c0161a5590f770ca572dad3b2b9a78bf",
   "assetLocator": "textures/timesup.png",
   "colorEncoding": "linear",
   "compressionQuality": "high",
@@ -24,18 +24,18 @@
   "targetSize": "largest",
   "uWrapMode": "clamp",
   "vWrapMode": "clamp",
-  "width": 828,
+  "width": 730,
   "children": [
     {
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
-      "assetDataHash": "7b939e9f572d20b4d53b25645d0a5781",
-      "colorCount": 54316,
-      "detectedAlphaChannel": "eight_bit_full_range",
+      "assetDataHash": "c0161a5590f770ca572dad3b2b9a78bf",
+      "colorCount": 137544,
+      "detectedAlphaChannel": "no_alpha",
       "detectedOriginalFormat": "png",
-      "entropyOfDistribution": 9.244532580842295,
+      "entropyOfDistribution": 8.24708578396583,
       "pixelsHigh": 1024,
-      "pixelsWide": 828
+      "pixelsWide": 730
     }
   ]
 }
